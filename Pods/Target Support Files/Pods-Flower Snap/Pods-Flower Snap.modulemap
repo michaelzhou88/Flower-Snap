@@ -1,0 +1,6 @@
+framework module Pods_Flower_Snap {
+  umbrella header "Pods-Flower Snap-umbrella.h"
+
+  export *
+  module * { export * }
+}
